@@ -1,0 +1,15 @@
+<div class="container-fluid" style="margin-top: 80px;">
+  <div style="text-align: center;">
+    <h4>It's Just Rick And Morty!</h4>
+    <a class="btn btn-primary" (click)="getRicknMorty()">Load data</a>
+  </div>
+  <div class="cardContainer">
+    <div class="card innerCards" *ngFor="let character of characters">
+      <img class="card-img-top" :src={{character.image}} alt="Image">
+      <div class="card-body">
+        <h5 class="card-title">{{character.name}}</h5>
+        <p class="card-text">{{character.species}}</p>
+      </div>
+    </div>
+  </div>
+</div>
