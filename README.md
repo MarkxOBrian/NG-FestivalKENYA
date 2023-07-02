@@ -8,8 +8,11 @@ Link to session slides: https://docs.google.com/presentation/d/14uY1EACyHEcDovi8
 ## Additional resources explaining HTTP Interceptors
 
 Link 1: https://www.telerik.com/blogs/angular-basics-intro-interceptors
+
 Link 2: https://medium.com/angular-in-depth/top-10-ways-to-use-interceptors-in-angular-db450f8a62d6
+
 Link 3: https://medium.com/javarevisited/what-are-http-interceptors-and-how-to-use-them-in-angular-59fcb4efc235
+
 Link 4: https://www.scaler.com/topics/angular/angular-interceptor/
 
 If you need fun APIs to play around with, check Rapid APIs: https://rapidapi.com/hub/
