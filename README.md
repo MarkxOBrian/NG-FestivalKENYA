@@ -1,6 +1,9 @@
-# NGFestival
+# NGFestival Kenya 2023
+# Session: HTTP Interceptors & how to use them in Angular
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.1.5.
+
+Link to session slides: https://docs.google.com/presentation/d/14uY1EACyHEcDovi8R8XRWj0lKcETzWU4FNllz6XAe6Q/edit?usp=sharing
 
 ## Development server
 
