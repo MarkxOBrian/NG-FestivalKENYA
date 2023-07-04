@@ -5,6 +5,8 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 Link to session slides: https://docs.google.com/presentation/d/14uY1EACyHEcDovi8R8XRWj0lKcETzWU4FNllz6XAe6Q/edit?usp=sharing
 
+Demo APP: https://ngfestivaldemo.markobrian.com
+
 ## Additional resources explaining HTTP Interceptors
 
 Link 1: https://www.telerik.com/blogs/angular-basics-intro-interceptors
